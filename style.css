@@ -1,10 +1,22 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
+body {
+  font-family: 'Inconsolata', monospace;
+}
 header {
     background-color: #9c9ee8;
     color: #e5e4ec;
     padding: 120px 10px;
 }
-.section {
 
-
+img {width: 350px;
+  }
+h2 {
+color: #2e0986;
+}
+p {
+color: #2e0986;
+  font-size: 17px;
+}
+.section2 {
+background-color: #e7e9f4; 
 }
